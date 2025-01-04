@@ -50,8 +50,8 @@ In **WhatARide**, you embark on a wild bike ride to school, navigating through m
 ## 📷 Screenshots
 
 ![WhatARide1](./Imgs/WhatARide1.png)
-![WhatARide4](./Imgs/WhatARide4.png)
-![WhatARide2](./Imgs/WhatARide2.png)
+![WhatARide4](./Imgs/WhatARide2.png)
+![WhatARide2](./Imgs/WhatARide3.png)
 ---
 
 
