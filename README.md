@@ -36,14 +36,14 @@ In **WhatARide**, you embark on a wild bike ride to school, navigating through m
 - **Time Management:** Successfully delivered a polished game within a tight 3-day timeframe.
 - **Problem Solving:** Developed a robust bike steering system that adapts dynamically to speed.
 - **Creativity Under Pressure:** Designed a variety of humorous obstacles and paths in a limited time.
-- **Teamwork:** Collaborated efficiently to produce a fun and cohesive game experience.
+
 
 ---
 
 ## 🔧 Built With
 - **Engine:** Unity
 - **Language:** C#
-- **Development Time:** 3 days
+
 
 ---
 
@@ -52,16 +52,6 @@ In **WhatARide**, you embark on a wild bike ride to school, navigating through m
 
 ---
 
-## 📂 How to Play
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Hessine-Lengliz/WhatARide.git
-   ```
-2. Open the project in Unity (version XX.X.X or later).
-3. Press the Play button to start the game.
-4. Enjoy the chaos and laughter!
-
----
 
 ## 📢 Feedback
 Have fun playing **WhatARide**! If you have any feedback, feel free to open an issue or reach out via:
